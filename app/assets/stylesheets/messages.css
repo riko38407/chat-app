@@ -22,7 +22,7 @@
 
 .chat{
   background-color: #ffffff;
-  width: clac(100vh - 300px);
+  width: calc(100vw - 300px);
 }
 
 .chat-header {
